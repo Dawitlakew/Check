@@ -1,0 +1,11 @@
+​🚀 Key Features (God Mode)
+​🧠 AI-Assisted Risk Engine: Automatically analyzes search results and categorizes them by threat level (Critical, High, Medium).
+​🕷️ Deep-Dive Terminal Spider: Scrapes Google Dorks directly into your Termux terminal without needing an external browser.
+​📂 Sensitive File Inspector: Automatically "peeks" into .env, .log, and .conf files to identify leaked API keys and passwords.
+​🔍 Identity & Social Mapper: Connects emails to real names and locations using the Gravatar API and social footprinting.
+​📍 IP & Phone Intelligence: Real-time ISP tracking and geographical region analysis for global targets.
+​🛠️ Self-Healing Core: Automatically detects and installs missing Python libraries upon startup.
+​📸 Interface Preview
+​The script features a dual-access system:
+​Admin Mode: Full access to internal logs and deep-scan history.
+​Community/Guest Mode: Restricted access for public deployment.
